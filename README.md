@@ -1,3 +1,2 @@
 # EnergyProp
-Contains information on the Valence shifting sentiment analysis 
-The steps for GMM
+Contains information on the Valence shifting sentiment analysis and the steps for GMM-based clustering
